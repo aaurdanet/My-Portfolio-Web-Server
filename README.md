@@ -23,8 +23,6 @@ Project Structure
 
 Here's how the project is structured:
 
-plaintext
-
 .
 ├── server.py                        # Main server file
 ├── templates/
@@ -36,6 +34,7 @@ plaintext
         │   ├── noscript.css         # Fallback CSS for no JavaScript
         └── images/
             └── favicon.ico          # Custom favicon for the website
+
 
 Running the Server
 
