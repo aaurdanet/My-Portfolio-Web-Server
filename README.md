@@ -19,23 +19,6 @@ bash
 
 pip install Flask
 
-Project Structure
-
-Here's how the project is structured:
-
-.
-├── server.py                        # Main server file
-├── templates/
-│   └── index.html                   # HTML template served by the server
-└── static/
-    └── assets/
-        ├── css/
-        │   ├── main.css             # Main CSS file for styling
-        │   ├── noscript.css         # Fallback CSS for no JavaScript
-        └── images/
-            └── favicon.ico          # Custom favicon for the website
-
-
 Running the Server
 
 To get the server up and running, just navigate to the project directory and run:
